@@ -1,4 +1,5 @@
-# Hashim Muhammad Nadeem
+<div align="center">
+<h1>Hashim Muhammad Nadeem</h1>
 I am an aspiring Full Stack and Full Pipe Data Scientist, aiming to make a difference. I love to use hashmaps and threading :D
 
 ## 🌐 Socials:
@@ -19,6 +20,7 @@ I am an aspiring Full Stack and Full Pipe Data Scientist, aiming to make a diffe
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hash2004&icon=9&color=3)](https://visitcount.itsvg.in)
+</div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&pause=1000&color=2E8B57&center=true&width=635&lines=Coding+beyond+limits...dreaming+beyond+stars!" alt="Typing SVG" /></a>
