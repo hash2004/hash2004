@@ -1,6 +1,5 @@
-# Hashim Muhammad Nadeem:
-I am an aspiring Full Stack and Full Pipe Data Scientist, aiming to make a difference. Though, I am no stranger to a good time :). Connect with me and let's work on something together!
-
+# Hashim Muhammad Nadeem
+I am an aspiring Full Stack and Full Pipe Data Scientist, aiming to make a difference. I love to use hashmaps and threading :D
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100006372704129) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hashimmnadeem ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hashim-muhammad-nadeem-a3b0a121b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Nadeemhashim) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23915924) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hashimmnadeem ) 
