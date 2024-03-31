@@ -15,7 +15,7 @@ I am an aspiring Full Stack and Full Pipe Data Scientist, aiming to make a diffe
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Random Dev Meme! Enjpy :) 
+### Random Dev Meme! Enjoy :) 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
