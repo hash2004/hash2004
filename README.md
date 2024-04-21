@@ -2,7 +2,7 @@
 <h1>Hashim Muhammad Nadeem</h1>
 I am an aspiring Full Stack and Full Pipe Data Scientist, aiming to make a difference. I love to use hashmaps and threading :D
 
-## 🌐 Socials:
+## 🌐 My Digital Footprint:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100006372704129)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hashimmnadeem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hashim-muhammad-nadeem-a3b0a121b)
@@ -18,7 +18,7 @@ I am an aspiring Full Stack and Full Pipe Data Scientist, aiming to make a diffe
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hash2004&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hash2004&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Codewords to Live By::
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Random Dev Meme! Enjoy :) 
