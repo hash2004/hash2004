@@ -18,12 +18,6 @@ I am an aspiring Full Stack and Full Pipe Data Scientist / AI Engineer, aiming t
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hash2004&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hash2004&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Codewords to Live By::
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Random Dev Meme! Enjoy :) 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=hash2004&icon=9&color=3)](https://visitcount.itsvg.in)
 </div>
