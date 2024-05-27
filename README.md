@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hashim Muhammad Nadeem</h1>
-I am a Full Stack AI Engineer and a Full Pipe Data Scientist. If you see threading implemented where it does not need to be, I probably wrote that code :)
+I am an AI Engineer and a Full-Pipe Data Scientist. If you see threading implemented where it does not need to be, I probably wrote that code :)
 
 ## 🌐 My Digital Footprint:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100006372704129)
