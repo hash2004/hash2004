@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hashim Muhammad Nadeem</h1>
-I am an AI Engineer and a Full-Pipe Data Scientist. If you see threading implemented where it does not need to be, I probably wrote that code :)
+AI, ML, Data & Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashim-muhammad-nadeem4/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-%23ffcc00.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/hash2004)
